@@ -97,6 +97,8 @@ ___
 | `cat` | Verkettet den Inhalt von Dateien und zeigt ihn an |  
 | `less` | Zeigt Sie die Ausgabe für einen Bildschirm an |  
 
+[A-Z Index of the Linux command lines](https://ss64.com/bash/)
+
 ___
 
 ## 3) Manuelles Kompilieren mithilfe der Konsole
@@ -124,3 +126,4 @@ Strg + x Editor wird beendet
 
  ![](https://bvinothraj.files.wordpress.com/2010/01/compile.jpg)  
  
+
