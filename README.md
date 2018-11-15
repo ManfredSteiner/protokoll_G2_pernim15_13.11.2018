@@ -1,6 +1,6 @@
 # 2. Protokoll
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HTL_Kaindorf_Logo.svg/300px-HTL_Kaindorf_Logo.svg.png) 
+![](https://www.htl-kaindorf.at/images/startpage/logoMecha.png) 
 
 Name: Perl Nicolas  
 Kat.-Nr.: 10  
@@ -22,9 +22,9 @@ ___
 	  
 ## 1) Die Kompilierung
 
-![](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/images/GCC_CompilationProcess.png)
+![](http://www.ntu.edu.sg/home/ehchua/programming/cpp/images/C_DevelopmentProcesses.png)
 
-Quelle: [GCC (GNU Compiler Collection)](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html)  
+Quelle: [The Process of Writing a C Program](http://www.ntu.edu.sg/home/ehchua/programming/cpp/c0_Introduction.html)  
 
 ___
 
@@ -119,7 +119,8 @@ Strg + x Editor wird beendet
  `gcc **-E** main.c `    | - Präprozessieren zum Preprozessorquelltext  
  `gcc **-S** main.c `    | - Kompilieren zum Assemblerquelltext  
  `gcc **-c** main.c `    | - Assemblieren zur Objektdatei (object datei)  
- `hexdump -C ("main.c")` | - Anzeigen des Codes auf der Konsole in Hexadezimal  
+ `hexdump -C ("main.c")`    | - Anzeigen des Codes auf der Konsole in Hexadezimal  
  `gcc **-o** main.c `    | - Object Datei erstellen  
 
-![enter image description here](https://image.ibb.co/hjjOGz/8YD.png)    
+ ![](https://bvinothraj.files.wordpress.com/2010/01/compile.jpg)  
+ 
