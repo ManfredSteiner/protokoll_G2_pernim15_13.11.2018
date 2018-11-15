@@ -101,7 +101,7 @@ ___
 
 ## 3) Manuelles Kompilieren mithilfe der Konsole
 
-`nano main.c` | - Öffnet die main.c mithilfe des **nano** Editors -> Programm schreiben
+`nano main.c` 
 ```
 #incude <stdio.h>
 int main()
