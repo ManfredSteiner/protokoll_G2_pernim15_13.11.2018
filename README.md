@@ -9,7 +9,7 @@ Gruppe: 2
 
 | Anwesend | Abwesend |  
 | --------------------------------------- | -------- |  
-| Korrenn, Murko, Orthofer, Perl, Szapacs | Skof |  
+| M.Korrenn, A.Murko, D.Orthofer, N.Perl, S.Szapacs | J.Skof |  
 ___
 
 ### Themen-Übersicht
@@ -61,7 +61,7 @@ Bibliotheken Die C-Standard-Bibliothek (englisch C standard library) ist die Sta
 
 ___
 
-## 2) Bash-Commands
+## 2) Wichtige Bash-Commands
 
 | Befehl | Funktion |  
 | ------ | -------- |  
