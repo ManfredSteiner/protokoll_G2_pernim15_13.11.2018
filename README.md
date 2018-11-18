@@ -91,7 +91,6 @@ ___
 | `nano ~/.bash_history` | history ist hier gespeichert |  
 | `!(Zahl des Commands)` | um spezielles Command wiederaufzurufen |  
 | `rsync -aP ue01/* ue02/` | remote synchronise = alles kopieren von ue01 mit Progress-Bar in ue02
-| `ls -l | grep u` | "pipen" = bestimmte Dateien sehen, gefiltertes Suchen |  
 | `find` | Suchen von Dateien |  
 | `nano` | öffnen des Linux Command-Line Text Editors |  
 | `cat` | Verkettet den Inhalt von Dateien und zeigt ihn an |  
@@ -126,4 +125,3 @@ Strg + x Editor wird beendet
 
  ![](https://bvinothraj.files.wordpress.com/2010/01/compile.jpg)  
  
-
