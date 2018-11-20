@@ -103,7 +103,8 @@ ___
 ## 3) Manuelles Kompilieren mithilfe der Konsole
 
 `nano main.c` 
-```
+
+```C
 #incude <stdio.h>
 int main()
 {
